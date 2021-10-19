@@ -1,0 +1,6 @@
+{
+  "name": "Networth Calculator",
+  "creator": "NeyLePro",
+  "description": "A ingame Hypixel Skyblock networth calculator",
+  "entry": "index.js"
+}
